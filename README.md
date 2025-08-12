@@ -1,2 +1,2 @@
 # cohichi
-Web based tomagochi game
+Online tomagochi game
